@@ -6,7 +6,8 @@ This is a simple copy to reddis. Sample url: https://tranquil-brushlands-87023.h
 ruby 2.4.3 
 * How to start it in server 
   1. bundle install --without production
-  2. rails server   
+  2. rails db:migrate
+  3. rails server   
 
 * Guests cannot vote or create new posts 
 * After logging in, you can post posts, comment and vote for posts. 
