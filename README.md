@@ -1,5 +1,5 @@
 # README
-This is a simple copy to reddis. Sample url: https://tranquil-brushlands-87023.herokuapp.com/posts
+This is a simple copy to reddit. Sample url: https://tranquil-brushlands-87023.herokuapp.com/posts
 
 
 * Ruby version
